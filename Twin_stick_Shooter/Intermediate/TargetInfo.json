@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Twin_stick_Shooter",
+			"Path": "..\\Source\\Twin_stick_Shooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Twin_stick_ShooterEditor",
+			"Path": "..\\Source\\Twin_stick_ShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

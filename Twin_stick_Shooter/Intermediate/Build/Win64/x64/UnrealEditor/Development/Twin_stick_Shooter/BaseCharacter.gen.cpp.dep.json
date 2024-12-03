@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\twin_stick_shooter\\uht\\basecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\x64\\twin_stick_shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twin_stick_shooter\\definitions.twin_stick_shooter.h",
+            "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\source\\twin_stick_shooter\\basecharacter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\twin_stick_shooter\\uht\\basecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

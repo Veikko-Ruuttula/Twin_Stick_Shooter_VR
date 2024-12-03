@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\twin_stick_shooter\\uht\\twin_stick_shooter.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\x64\\twin_stick_shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twin_stick_shooter\\definitions.twin_stick_shooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
