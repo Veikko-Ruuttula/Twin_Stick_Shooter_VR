@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Twin_stick_Shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\Twin_stick_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\BaseCharacter.gen.cpp.obj"
+"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Twin_stick_Shooter.init.gen.cpp.obj"
+"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\BaseCharacter.cpp.obj"
+"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Twin_stick_Shooter.cpp.obj"
+"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Default.rc2.res"
+/OUT:"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\UnrealEditor-Twin_stick_Shooter.lib"

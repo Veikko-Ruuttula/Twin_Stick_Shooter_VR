@@ -1,11 +1,11 @@
-"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Source\Twin_stick_Shooter\BaseCharacter.cpp"
-/FI"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\Twin_stick_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Definitions.Twin_stick_Shooter.h"
-/Yu"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\Twin_stick_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\Twin_stick_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\BaseCharacter.cpp.obj"
-/sourceDependencies "C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\BaseCharacter.cpp.dep.json"
-@"C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Twin_stick_Shooter.Shared.rsp"
+"C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Source\Twin_stick_Shooter\BaseCharacter.cpp"
+/FI"C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\x64\Twin_stick_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Definitions.Twin_stick_Shooter.h"
+/Yu"C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\x64\Twin_stick_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\x64\Twin_stick_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\BaseCharacter.cpp.obj"
+/sourceDependencies "C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\BaseCharacter.cpp.dep.json"
+@"C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Twin_stick_Shooter.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
