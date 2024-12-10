@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/HeroCharacter.uasset",
-				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/Twin.uasset",
 				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/TwinStickMode.uasset",
 				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Maps/ArenaMap.umap",
 				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/EnemyCharacter.uasset",
@@ -14,6 +13,9 @@
 				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/Projectile.uasset",
 				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Materials/ProjectileMat.uasset",
 				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/Weapon.uasset",
+				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/iDamageable.uasset",
+				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/EnemySpawner.uasset",
+				"C:/Users/veikko.ruuttula/Documents/GitHub/Twin_Stick_Shooter_VR/Twin_stick_Shooter/Content/Blueprints/Twin.uasset",
 				"C:/Users/veikko.ruuttula/Documents/Unreal Projects/Twin_stick_Shooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/veikko.ruuttula/Documents/Unreal Projects/Twin_stick_Shooter/Content/Maps/ArenaMap_BuiltData.uasset",
 				"C:/Users/veikko.ruuttula/Documents/Unreal Projects/Twin_stick_Shooter/Content/Maps/ArenaMap.umap"
