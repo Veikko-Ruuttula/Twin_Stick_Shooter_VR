@@ -80,5 +80,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=Twin_stick_Shooter
-/fo "C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Default.rc2.res"
+/fo "C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Twin_stick_Shooter\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

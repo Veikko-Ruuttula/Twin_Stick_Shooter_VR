@@ -281,8 +281,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-/I "C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Intermediate\Build\Win64\UnrealEditor\Inc\Twin_stick_Shooter\UHT"
-/I "C:\Users\veikko.ruuttula\Documents\Unreal Projects\Twin_stick_Shooter\Source"
+/I "C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Intermediate\Build\Win64\UnrealEditor\Inc\Twin_stick_Shooter\UHT"
+/I "C:\Users\veikko.ruuttula\Documents\GitHub\Twin_Stick_Shooter_VR\Twin_stick_Shooter\Source"
 /external:W0
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"

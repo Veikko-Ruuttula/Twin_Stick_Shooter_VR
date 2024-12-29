@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\veikko.ruuttula\\Documents\\GitHub\\Twin_Stick_Shooter_VR\\Twin_stick_Shooter\\Source\\Twin_stick_Shooter\\Twin_stick_Shooter.Build.cs",
-		"C:\\Users\\veikko.ruuttula\\Documents\\GitHub\\Twin_Stick_Shooter_VR\\Twin_stick_Shooter\\Source\\Twin_stick_Shooter.Target.cs",
-		"C:\\Users\\veikko.ruuttula\\Documents\\GitHub\\Twin_Stick_Shooter_VR\\Twin_stick_Shooter\\Source\\Twin_stick_ShooterEditor.Target.cs"
+		"C:\\Users\\Veikko\\Documents\\GitHub\\Twin_Stick_Shooter_VR\\Twin_stick_Shooter\\Source\\Twin_stick_Shooter\\Twin_stick_Shooter.Build.cs",
+		"C:\\Users\\Veikko\\Documents\\GitHub\\Twin_Stick_Shooter_VR\\Twin_stick_Shooter\\Source\\Twin_stick_Shooter.Target.cs",
+		"C:\\Users\\Veikko\\Documents\\GitHub\\Twin_Stick_Shooter_VR\\Twin_stick_Shooter\\Source\\Twin_stick_ShooterEditor.Target.cs"
 	],
-	"EngineVersion": "5.4.3"
+	"EngineVersion": "5.4.4"
 }

@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\source\\twin_stick_shooter\\twin_stick_shooter.cpp",
+        "Source": "c:\\users\\veikko\\documents\\github\\twin_stick_shooter_vr\\twin_stick_shooter\\source\\twin_stick_shooter\\twin_stick_shooter.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\x64\\twin_stick_shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "c:\\users\\veikko\\documents\\github\\twin_stick_shooter_vr\\twin_stick_shooter\\intermediate\\build\\win64\\x64\\twin_stick_shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twin_stick_shooter\\definitions.twin_stick_shooter.h",
-            "c:\\users\\veikko.ruuttula\\documents\\unreal projects\\twin_stick_shooter\\source\\twin_stick_shooter\\twin_stick_shooter.h"
+            "c:\\users\\veikko\\documents\\github\\twin_stick_shooter_vr\\twin_stick_shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\twin_stick_shooter\\definitions.twin_stick_shooter.h",
+            "c:\\users\\veikko\\documents\\github\\twin_stick_shooter_vr\\twin_stick_shooter\\source\\twin_stick_shooter\\twin_stick_shooter.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
